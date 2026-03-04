@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-PluginInfo-Name=PBRLayers
+X-KDE-PluginInfo-Author=PBR Layers
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=Tools
+X-KDE-PluginInfo-License=MIT
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-Optional=
+Name=PBR Layers
+Description=Automatically organize and process PBR texture layers
+
+Icon=
+
+X-Python-2=false
+X-Python-Scripts=__init__.py,pbr_layers_extension.py,pbr_layers_logic.py
