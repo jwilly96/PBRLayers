@@ -2,12 +2,26 @@
 
 This plugin automatically detects and processes PBR (Physically-Based Rendering) texture layers in Krita.
 
+If you've ever used a site like textures.com to find textures for a game/application that doesn't use PBR materials, you've probably found that your selection is severely limited. You may have attempted to use only the albedo texture in your game, only to find that it looks incredibly flat compared to the rendered screenshots showcasing that material. The purpose of this plugin is to open up the opportunity for use of PBR materials in these instances. 
+
+
 ## Features
 
 - Automatically detects PBR texture layers by name (albedo, normal, roughness, height, AO, etc.)
 - Splits normal maps into Red and Green channels
 - Sets appropriate blending modes and opacity for each texture type
 - Organizes all processed layers into a PBR_Layers group
+
+### Albdeo Texture
+<img width="257" height="256" alt="image" src="https://github.com/user-attachments/assets/3629430b-644b-4c5f-8da6-6cabbd33cc11" />
+### Layers Before Using Plugin
+<img width="251" height="215" alt="image" src="https://github.com/user-attachments/assets/e8710848-a024-4b97-aade-205faeb64382" />
+### Final Texture After Using Plugin
+<img width="254" height="254" alt="image" src="https://github.com/user-attachments/assets/e103423f-4bcd-4116-9484-bfa336bcc957" />
+### Layers After Using Plugin
+<img width="185" height="298" alt="image" src="https://github.com/user-attachments/assets/dd90373d-430a-477c-bb19-c4093d7723a9" />
+
+
 
 ## Installation
 
