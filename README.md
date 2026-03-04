@@ -32,6 +32,10 @@ If you've ever used a site like textures.com to find textures for a game/applica
 
 ## Installation
 
+### Any Platform (Web Install Through Krita) (Recommended)
+1. Go to Tools > Scripts > Install From Web
+2. Enter the URL for this git repo
+
 ### On Windows:
 
 1. Copy the entire `PBRFlatten` folder to:
