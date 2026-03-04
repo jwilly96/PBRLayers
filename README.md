@@ -12,13 +12,20 @@ If you've ever used a site like textures.com to find textures for a game/applica
 - Sets appropriate blending modes and opacity for each texture type
 - Organizes all processed layers into a PBR_Layers group
 
-### Albdeo Texture
+### Albedo Texture Before Using Plugin
+
 <img width="257" height="256" alt="image" src="https://github.com/user-attachments/assets/3629430b-644b-4c5f-8da6-6cabbd33cc11" />
+
 ### Layers Before Using Plugin
+
 <img width="251" height="215" alt="image" src="https://github.com/user-attachments/assets/e8710848-a024-4b97-aade-205faeb64382" />
+
 ### Final Texture After Using Plugin
+
 <img width="254" height="254" alt="image" src="https://github.com/user-attachments/assets/e103423f-4bcd-4116-9484-bfa336bcc957" />
+
 ### Layers After Using Plugin
+
 <img width="185" height="298" alt="image" src="https://github.com/user-attachments/assets/dd90373d-430a-477c-bb19-c4093d7723a9" />
 
 
